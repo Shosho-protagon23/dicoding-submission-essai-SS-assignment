@@ -1,0 +1,84 @@
+Nama: Faga Imam Wicaksono
+Assignment: ILT SS 4
+
+
+Assalamu'alaikum warahmatullahi wabarakatuh.
+
+Yang saya hormati, para mentor dan fasilitator Coding Camp powered by DBS 2026,
+Yang saya hormati, perwakilan dari DBS Foundation yang telah mempercayakan program
+luar biasa ini kepada kami,
+Dan teman-teman peserta yang saya banggakan.
+
+Pertama-tama, izinkan saya memanjatkan puji syukur kepada Tuhan Yang Maha Esa,
+karena atas rahmat-Nya kita dapat berkumpul dalam momen yang sangat istimewa ini.
+
+Perkenalkan, nama saya Faga Imam Wicaksono. Saya adalah salah satu peserta Coding
+Camp powered by DBS 2026 pada jalur Full-Stack Web Development. Sebelum bergabung
+dalam program ini, saya masih berstatus mahasiswa baru Universitas Amikom Purwokerto
+seseorang yang menyimpan banyak mimpi besar, tetapi belum tahu darimana saya harus
+memulai untuk mewujudkannya.
+
+Banyak yang bertanya kepada saya: "Ga, kamu kok mau ikut program ini?" Dan jawaban
+saya selalu sama, karena saya ingin membangun sesuatu yang nyata, sesuatu yang bukan
+sekadar bermimpi.
+
+Saya melihat begitu banyak permasalahan di sekitar saya yang sesungguhnya bisa
+diselesaikan dengan teknologi. Saya percaya bahwa coding bukan hanya sekadar derertan kode,
+ia adalah baha untuk menciptakan solusi. Dengan keahlian Full-Stack Web Development, saya
+memiliki dua tujuan utama.
+
+Pertama, saya ingin membangun sebuah startup digital yang tidak hanya menguntungkan
+secara bisnis, tetapi juga berdampak nyata bagi masyarakat. Kedua, dan ini yang paling
+personal, saya ingin membalas perjuangan keluarga saya. Orang tua saya telah berkorban
+banyak demi pendidikan saya, dan karier dunia teknologi adalah jalan konkret yang saya
+pilih untuk meringankan beban mereka.
+
+Program ini memberikan saya jauh lebih dari sekadar ilmu teknis.
+
+Selama mengikuti Coding Camp DBS 2026, saya belajar membangun aplikasi web secara
+menyeluruh, dari sisi front-end yang berinteraksi langsung dengan pengguna, hingga back-end
+yang menggerakkan logika dan data di balik layar. Saya belajar bagaimana merancang
+tampilan yang intuituf, membangun API yang handal, dan mengelola database dengan efisien.
+
+Namun, ada satu momen yang tidak akan pernah saya lupakan. Satu malam, saya
+menghabiskan hampir tiga jam lewat tengah malam hanya untuk men-debug sebuah error yang
+ternyata disebabkan oleh satu variable yang typo. Momen itu mengajarkan saya sesuatu yang
+tidak ada di buku mana pun:
+
+"Bahwa ketelitian, kesabaran, dan ketekunan adalah fondasi seorang developer sejati."
+
+Saya juga belajar tentang kolaborasi. Berdiskusi dengan teman-teman dari berbagai latar
+belakang, saling memberi masukkan, dan menyelesaikan tantangan bersama-sama. Sungguh,
+pengalaman tersebut mengubah cara saya memandang kerja tim dan komunikasi dalam dunia
+profesional.
+
+Setelah lulus dari program ini, saya memiliki tiga langkah konkret yang sudah saya siapkan.
+
+Pertama, saya akan membangun portofolio proyek nyata, bukan hanya aplikasi yang hidup
+di komputer saya sendiri, melainkan produk yang bisa digunakan dan dirasakan manfaatnya
+oleh orang lain. Portfolio ini yang akan menjadi bukti kemampuan saya kepada dunia.
+
+Kedua, saya akan mulai mewujudkan impian saya untuk membangun startup teknologi. Saya sudah
+memiliki beberapa ide awal yang sedang saya validasi, dan program ini telah memberi saya
+bekal teknis serta mental untuk berani melangkah lebih jauh.
+
+Ketiga, saya ingin berbagi ilmu kepada komunitas. Saya percaya bahwa ilmu yang disimpan
+sendiri adalah ilmu yang stagnan. Melalui mentoring, sesi berbagi, atau konten edukatif, saya
+ingin lebih banyak anak muda Indonesia merasakan transformasi yang sama seperti yang
+saya alami di sini.
+
+Sebelum saya menutup pidato ini, izinkan saya menyampaikan terima kasih yang sebesar-besarnya.
+
+Terima kasih kepada seluruh mentor dan fasilitator yang tidak hanya mengajar, tetapi juga
+menginspirasi kami untuk tidak berhenti pada kata "cukup".
+
+Dan terima kasih kepada teman-teman peserta, kalian adalah bukti nyata bahwa semangat
+belajar tidak mengenal batas usia, latar belakang, maupun jarak.
+
+Penghargaan prestasi ini bukan hanya milik saya. Ini adalah buah dari kerja keras
+kita bersama. Saya, Faga Imam Wicaksono, berkomitmen untuk menjadikan kepercayaan ini
+bukan sekadar trofi, melainkan bahan bakar untuk terus maju dan memberi dampak nyata
+bagi Indonesia.
+
+Wassalamu'alaikum waramatullahi wabarakatuh.
+Terima kasih.

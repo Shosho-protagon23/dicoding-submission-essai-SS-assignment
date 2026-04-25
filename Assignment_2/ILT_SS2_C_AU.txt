@@ -1,0 +1,69 @@
+Nama: Faga Imam Wicaksono
+Assignment: ILT SS 2
+
+## Konsep Growth Mindset menurut saya pribadi?
+Menurut saya Growth Mindset adalah pola atau konsep berpikir dimana
+seseorang yakin bahwa kemampuan, kecerdasan, dan bakat seseorang dapat
+terus dikembangkan melalui usaha, dedikasi, kerja keras, dan tetap
+kosisten dengan goal apa yang sedang dituju. Orang yang memiliki
+Growth Mindset biasanya melihat sebuah kegagalan bukan sebagai
+batasan, melaikan sebagai peluang untuk belajar menjadi lebih baik
+lagi. Tantangan juga merupakan hal yang orang-orang ber-Growth Mindset
+senangi, karena daripada menghindar, mereka merangkul kesulitan tersebut
+sebagai cara mereka untuk meningkatkan kapasitas diri. Orang yang
+memiliki Growth Mindset juga sangat terbuka terhadap kritik, karena
+mereka melihat masukan atau kritik tersebut sebagai alat untuk mengevaluasi
+diri dari kekurangan mereka.
+
+## Where I am Now?
+Saya pribadi adalah seorang mahasiswa Universitas Amikom Purwokerto
+yang sedang menempuh semester 2 di S1 Teknologi informasi dan mempunyai 
+goal sebagai seorang Full-time Indie Game Developer, dan Part-time Bug Bounty Hunter. Pengalaman saya pada bahasa pemrograman yang sudah saya
+pelajari sejauh ini adalah:
+# Python (Basics dan sudah bisa membuat aplikasi pendukung produktivitas)
+# HTML (Basics dan sudah bisa untuk membuat sebuah web profile dan aplikasi)
+# JavaScript (Basics dan sudah bisa mengintegrasikan untuk aplikasi web)
+# C# (Basics dan belajar dari menggunakan aplikasi Unity sambil latihan membuat game)
+
+Sebagai pemula dalam indie game developer saya mempunyai 1 projek yang sedang saya
+rintis dimana tema yang saya ambil adalah senjata tradisional dari seluruh daerah
+Indonesia. Mekanisme gameplay yang saya ambil adalah PvP dan 1 hit 1 kill dimana
+setiap player diperbolehkan untuk memilih senjata berdasarkan daerah mana yang mereka
+ambil. Saya berencana menggunakan latar belakang bernuasa jaman saat indonesia masih
+dalam era masih berupa kerajaan-kerajaan dimana hal tersebut bisa memberikan kesan
+Cultural Heritage yang sangat kental dan berkesan.
+
+Sedangkan sebagai pemula dalam Bug Bounty Hunter, saya masih belajar tentang bagaimana
+sebuah jaringan bekerja dan apa yang biasanya menjadi kelemahan dari sebuah jaringan.
+Fundamental Linux dan bahasa-bahasa pemrograman juga menjadi sebuah fondasi belajar
+saya untuk bisa menemukan kelemahan yang berpotensi menjadi ancaman client saya nanti-
+nya. Saya kebanyakan belajar melalui platform seperti CTF (Bidang Cyber Security) dan
+Code Leet (Bidang Bahasa Pemrograman). Namun tidak hanya itu, saya juga belajar melalui
+praktek dengan Vulnyx, sebuah platform tempat dimana banyak lab-lab yang bisa saya uji
+dan pelajari lebih dalam tentang kerentanan sebuah sistem.
+
+## Where Do I Want To Go?
+$$ Pilar pertama ==> Full-time Indie Game Developer
+> Saya ingin game saya untuk dirilis pada platform seperti Steam, Itch.io, dan Epic Games.
+> Sebagai rencana untuk studio mandiri saya, pertama mulai dengan Laptop yang saat ini saya
+  miliki, dan kedepannya akan saya upgrade dengan PC untuk meningkatkan performa dan
+  kualitas game yang saya inginkan.
+> Roadmap saya: Belajar dasar C# => Design UI/UX => 2D art => 3D Designing => Cara kerja
+  platform game Steam untuk newbie.
+
+$$ Pilar kedua ==> Part-time Bug Bounty Hunter
+> Kenapa Part-time Bug Bounty? karena ini dapat mengasah otak saya dan agar waktu saya bisa
+  fleksibel.
+> Target platform: HackerOne (Awal memulai) dan Instansi-instansi yang berada
+  di Indonesia (Freelance).
+> Roadmap saya: All Basics about Cyber Security => OWASP Top 10 => Vulnerable Labs =>
+  Sertifikasi yang mendukung pekerjaan.
+
+Dari semua yang saya jelaskan, saya ingin memberi kesimpulan bahwa dengan Bug Bounty
+saya juga bisa belajar untuk memperkuat keamanan dalam permainan yang saya buat,
+sehinggan kualitas yang ditawarkan juga sesuai dengan apa yang diharapkan para pemain.
+Dengan Bug Bounty juga saya dapat membantu orang-orang dan instansi-instansi untuk
+memperkuat pertahanan digital mereka karena profesi ini menuntuk ketelitian tinggi dan
+pemahaman mendalam tentang arsitektur keamanan digital.
+
+Demikian rencana pengembangan diri saya, terima kasih banyak.

@@ -1,0 +1,98 @@
+Nama: Faga Imam Wicaksono
+Assignment: ILT SS 1
+
+<< Soal: >>
+
+###############################################################################################################
+Tentukan Tugas Berdasarkan Prioritas!
+Sofia baru saja diterima sebagai ML Engineer di sebuah perusahaan teknologi yang berfokus pada logistik.
+Dia merasa kewalahan dan memiliki begitu banyak hal yang harus dilakukan dalam daftar tugasnya:
+
+1. Mempersiapkan infrastruktur untuk migrasi data ke cloud yang akan membantu tim pengembang
+   untuk memperbarui aplikasi perusahaan yang akan selesai dalam 3 hari.
+
+2. Melakukan pemeliharaan harian dan siaga untuk shift kerjanya.
+
+3. Mencari dan membeli hadiah ulang tahun untuk ibunya, yang ulang tahunnya minggu depan.
+
+4. Berbelanja bahan makanan untuk menyiapkan pesta ulang tahun ibunya yang akan diadakan akhir pekan depan.
+
+5. Menghadiri reuni virtual sekolah dasar malam ini.
+
+6. Mengunjungi dokter karena merasakan sedikit nyeri di punggungnya setelah bekerja berjam-jam baru-baru ini.
+
+7. Mempersiapkan laporan kemajuan untuk rapat malam ini.
+
+8. Menonton 3 episode terakhir dari serial TV favoritnya.
+
+Tolong bantu Sofia membuat kuadran manajemen waktu untuk semua tugasnya.
+Jelaskan mengapa menurut Anda setiap aktivitas harus masuk ke kuadran tertentu dalam sebuah esai singkat.
+##############################################################################################################
+
+<< Jawaban: >>
+
+##############################################################################################################
+>>> Kuadran 1 - Do It NOW
+(2) Melakukan pemeliharaan harian dan siaga untuk shift kerjanya.
+(7) Mempersiapkan laporan kemajuan untuk rapat malam ini.
+
+>>> Kuadran 2 - Schedule
+(1) Mempersiapkan infrastruktur untuk migrasi data ke cloud yang akan
+    membantu tim pengembang untuk memperbarui aplikasi perusahaan yang akan selesai dalam 3 hari.
+(6) Mengunjungi dokter karena merasakan sedikit nyeri di
+    punggungnya setelah bekerja berjam-jam baru-baru ini.
+
+>>> Kuadran 3 - Delegate
+(3) Mencari dan membeli hadiah ulang tahun untuk ibunya, yang ulang tahunnya minggu depan.
+(4) Berbelanja bahan makanan untuk menyiapkan pesta ulang tahun ibunya yang akan diadakan akhir pekan depan.
+
+>>> Kuadran 4 - Drop it
+(5) Menghadiri reuni virtual sekolah dasar malam ini.
+(8) Menonton 3 episode terakhir dari serial TV favoritnya.
+
+Explanation:
+>> Kuadran 1 (Penting dan mendesak)
+Persiapan laporan kemajuan untuk rapat malam ini, menurut saya sudah jelas masuk ke kategori Kuadran 1
+karena dengan waktunya yang sudah "mepet" dengan rapat dan jika tidak dikerjakan dengan segera, konsekuensinya
+akan langsung terasa secara profesional. Sama hal-nya dengan melakukan pemeliharaan harian dan siaga untuk shift kerja,
+karena ini sudah termasuk bagian dari tanggung jawab inti Sofia sebagai karyawan yang harus tetap dipenuhi
+setiap hari kerja.
+
+>> Kuadran 2 (Penting tapi tidak mendesak)
+Mempersiapkan untuk migrasi data ke cloud memang penting dan deadline-nya 3 hari kedepan,
+tapi masih ada waktu untuk bisa dijadwalkan secara terstruktur, semisal tugas ini diletakan
+sebagai prioritas (Kuadran 1) justru nantinya akan membuat Sofia panik dan kewalahan atau tidak bisa fokus.
+Begitu juga dengan kunjungan Sofia ke dokter juga penting karena ini menyangkut tentang kesehatan Sofia sendiri,
+namun tidak ada tanda-tanda kalau hal ini darurat secara medis, jadi bisa dijadwalkan untuk beberapa hari kedepan.
+
+>> Kuadran 3 (Mendesak tapi tidak harus Sofia yang melakukannya)
+Untuk Mencari dan membeli hadiah ulang tahun untuk ibu Sofia serta berbelanja untuk bahan makanan pesta
+ulang tahun ibunya punya jangka waktu yang cukup dekat (akhir pekan), tapi tugas-tugas ini tidak perlu
+keahlian khusus Sofia, karena dia bisa meminta bantuan dari anggota keluarganya yang lain, mungkin pasangan,
+atau bisa juga dengan memanfaatkan layanan pesan antar online untuk membagikan tugas-tugas ini.
+
+>> Kuadran 4 (Tidak penting dan tidak mendesak)
+Menonton serial TV favorit episode terakhir sudah termasuk sebagai hiburan murni yang tidak punya
+konsekuensi apapun kalau ditunda. Reuni virtual juga bisa dilewatkan atau dihadiri cukup sebentar saja
+lalu izin keluar lebih awal, karena meskipun menyenangkan bisa bertemu dengan teman lama,
+ini tidak membawa dampak yang begitu signifikan ke kehidupan kerja maupun kehidupan pribadi Sofia.
+####################################################################################################################
+
+<< Extra: >>
+
+>> Referensi
+Untuk referensi sumber literasi yang saya gunakan untuk membantu dalam pengerjaan
+tugas ini saya menggunakan referensi dari:
+> "Matriks Eisenhower: Cara Memprioritaskan Daftar Tugas" yang ditulis oleh Ryan Tronier, 29 Desember 2025.
+  ( link: https://asana.com/id/resources/eisenhower-matrix )
+> "Eisenhower Matrix: Manajemen Waktu Anti-Stres Untuk Pekerja Sibuk" yang ditulis oleh Alya Nisania.
+  ( link: https://blog.procura.id/lifestyle/eisenhower-matrix-manajemen-waktu/ )
+
+>> Assistant using Claude AI
+Dalam mengerjakan tugas ini, saya menggunakan Claude AI untuk memahami lebih jelas
+tentang konsep Eisenhower Matrix selain dari sumber literasi yang sudah saya cantumkan tadi
+dengan mencantumkan materi literasinya dan membuat beberapa poin-poin penting yang dapat
+memudahkan saya untuk lebih memahami tentang tugas ini.
+Untuk penentuan penempatan kategori dari setiap tugas punya Sofia dan penulisan
+pada esai ini tetap saya lakukan secara mandiri berdasarkan pemahaman saya
+sesuai dengan konteks yang diberikan, terimakasih.
