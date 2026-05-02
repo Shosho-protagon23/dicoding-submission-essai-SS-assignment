@@ -1,0 +1,73 @@
+Nama: Faga Imam Wicaksono
+Assignment: ILT SS 5
+
+## Lima Fase Project Management - AUVRA (AI-UV Repair & Analysis) ##
+
+1. Project Initation
+
+* Hasil dan Ekspektasi Proyek
+Proyek AUVRA bertujuan untuk membangun sebuah platform web cerdas yang memungkinkan
+pengguna meng-upload foto kulit atau wajah untuk dianalisis kondisi skin
+barrier-nya secara real-time menggunakan model Deep Learning. Ekspektasi akhir
+proyek dari kami yaitu:
+
+a) Model AI klasifikasi citra wajah dengan akurasi minimal 85% dan MAE maximal
+   0,02
+b) Aplikasi web responsif yang terintegrasi penuh dengan model AI melalui RESTful
+   API
+c) Dashboard analitik interaktif berbasis Streamlit
+d) Laporan teknis yang komprehensif
+
+Proyek ini diharapkan dapat menjadi solusi nyata bagi masyarakat Indonesia yang
+kesulitan mengenali tingkat kerusakan skin barrier mereka, sekaligus memberikan
+rekomendasi perawatan berbahan alami yang aman untuk kulit.
+
+* Stakeholders
+Stakeholders dalam proyek ini terdiri dari beberapa pihak. Pertama, ada tim
+internal proyek yang terdiri dari 5 anggota dengan peran berbeda:
+> Sandy & Setia (Data Science)
+> Faga & Affan (Full-Stack Web Developer)
+> Anggarda (AI Engineer)
+Kedua, end users, yaitu masyarakat umum di Indonesia yang memiliki masalah kulit
+dan ingin mengetahui kondisi skin barrier mereka secara mandiri tanpa harus ke
+dokter. Ketiga, DBS Foundation dan penyelenggara Coding Camp 2026 selaku pemberi
+program dan evaluator capstone project. Keempat, penyedia dataset (Kaggle) yang
+menyediakan data citra kulit sebagai bahan pelatihan model AI. Memahami kebutuhan
+setiap stakeholder ini penting agar produk yang dihasilkan relevan, akurat, dan
+berdampak nyata.
+
+2. Project Planning
+
+* Sumber Daya Proyek
+a] Sumber daya proyek yang digunakan mencakup Python dan TensorFlow untuk pengembangan model AI.
+b] React, Vite, Tailwind CSS untuk membangun antarmuka pengguna yang responsif.
+c] Node.js untuk backend utama dan RESTful API. FastAPI/Flask sebagai server inferensi model AI.
+   Axios untuk komunikasi antar layanan.
+d] Streamlit untuk dashboard analitik.
+e] TensorBoard untuk monitoring pelatihan model.
+f] GitHub sebagai platform kolaborasi dan version control.
+g] Vercel untuk deployment aplikasi ke publik.
+h] Sumber daya pendukung meliputi Google Meet dan Discord untuk meetup.
+i] Google Calendar dan Trello/Notion untuk manajemen jadwal tim.
+
+* Kegiatan/Tugas yang Diperlukan
+Seluruh aktivitas proyek dibagi berdasarkan peran
+> Tim Data Science bertugas melakukan dara gathering, wrangling end-to-end, penyusunan data
+  dictionary, EDA dan visualisasi, pembuatan dashboard Streamlit, serta laporan teknis.
+> Tim AI Engineer merancang arsitektur Deep Learning (TensorFlow Functional API/Subclassing),
+  menginplementasikan custom layer/loss/callback, memantau mentrik via TensorBoard, dan
+  mengekspor model final ke format keras/SavedModel.
+> Tim Full-Stack membangun UI responsif, merancang dan membangun RESTful API, melakukan
+  networking calls via Axios, mengintegrasikan Generative AI API, serta men-deploy aplikasi ke
+  Vercel.
+
+* Jadwal/Timeline
+Proyek diselesaikan dalam 5 minggu dengan milestone yang realistis:
++ Minggu 1 => Identifikasi masalah, pengumpulan dataset, dan pembuatan mockup UI.
++ Minggu 2 => Data cleaning, EDA, perancangan arsitektur API dan model Deep Learning.
++ Minggu 3 => Pelatihan model AI, pembangunan frontend dan backend.
++ Minggu 4 => Integrasi API ke frontend, pembuatan dashboard Streamlit, evaluasi performa model.
++ Minggu 5 => Deployment ke cloud, stability testing, dan penyusunan laporan teknis akhir.
+
+Sinkronisasi progress dilakukan setiap hari melalui Google Meet/Discord untuk memastikan
+tidak ada keterlambatan di setiap milestone.
